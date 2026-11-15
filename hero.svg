@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d3a26"/><stop offset="1" stop-color="#1c6b45"/></linearGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#sky)"/>
+  <circle cx="1270" cy="120" r="60" fill="#f2d98a" opacity=".85"/>
+  <path d="M0 300 L180 210 L320 270 L470 170 L640 260 L800 190 L960 250 L1120 160 L1290 240 L1440 180 L1600 230 V500 H0Z" fill="#185c3c"/>
+  <path d="M0 340 L220 270 L420 320 L600 250 L820 320 L1020 260 L1240 320 L1420 270 L1600 300 V500 H0Z" fill="#1f7449"/>
+  <!-- palm trees -->
+  <g fill="#0f3f29">
+    <rect x="1090" y="250" width="7" height="90"/><path d="M1093 250 q-40 -10 -60 12 q30 -8 60 -6 q-30 -20 -10 -40 q10 25 10 34 q5 -30 35 -36 q-20 18 -25 36 q35 -10 55 10 q-30 -6 -55 -10z"/>
+    <rect x="1490" y="240" width="7" height="100"/><path d="M1493 240 q-40 -10 -60 12 q30 -8 60 -6 q-30 -20 -10 -40 q10 25 10 34 q5 -30 35 -36 q-20 18 -25 36 q35 -10 55 10 q-30 -6 -55 -10z"/>
+  </g>
+  <!-- road -->
+  <path d="M0 380 H1600 V500 H0Z" fill="#26302b"/>
+  <path d="M0 380 H1600 V388 H0Z" fill="#3a463f"/>
+  <g fill="#e6e1c5"><rect x="40" y="436" width="90" height="6" rx="3"/><rect x="230" y="436" width="90" height="6" rx="3"/><rect x="420" y="436" width="90" height="6" rx="3"/><rect x="610" y="436" width="90" height="6" rx="3"/><rect x="800" y="436" width="90" height="6" rx="3"/><rect x="990" y="436" width="90" height="6" rx="3"/><rect x="1180" y="436" width="90" height="6" rx="3"/><rect x="1370" y="436" width="90" height="6" rx="3"/></g>
+
+<svg x="1230" y="256" width="400" height="160" viewBox="0 0 400 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SUV car illustration">
+      <defs>
+        <linearGradient id="car2b" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#69bd94"/><stop offset=".45" stop-color="#2fa36b"/><stop offset="1" stop-color="#1f6a46"/>
+        </linearGradient>
+        <linearGradient id="car2g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#d9e9f0"/><stop offset=".55" stop-color="#9fb8c4"/><stop offset="1" stop-color="#6f8894"/>
+        </linearGradient>
+        <radialGradient id="car2r" cx=".4" cy=".35" r=".7"><stop offset="0" stop-color="#eef1f0"/><stop offset="1" stop-color="#9aa4a0"/></radialGradient>
+        <clipPath id="car2c"><path d="M26 116 L26 66 Q28 42 56 36 L242 32 Q272 34 300 64 L346 72 Q370 78 372 98 L372 116 Z"/></clipPath>
+      </defs>
+      <ellipse cx="200" cy="147" rx="178" ry="7" fill="#000" opacity=".14"/>
+      <rect x="70" y="26" width="160" height="5" rx="2.5" fill="#2a2e2d"/>
+      <path d="M26 116 L26 66 Q28 42 56 36 L242 32 Q272 34 300 64 L346 72 Q370 78 372 98 L372 116 Z" fill="url(#car2b)" stroke="#185236" stroke-width="1.2"/>
+      <g clip-path="url(#car2c)">
+        <rect x="0" y="100" width="400" height="60" fill="#2b2f2e" opacity="0.85"/>
+        <path d="M20 78 L380 74" stroke="#fff" stroke-opacity=".28" stroke-width="2"/>
+      </g>
+      <path d="M46 46 Q50 42 64 42 L134 40 L134 68 L42 70 Z" fill="url(#car2g)" stroke="#1f2a2e" stroke-opacity=".35"/><path d="M144 40 L240 38 Q262 42 284 66 L144 68 Z" fill="url(#car2g)" stroke="#1f2a2e" stroke-opacity=".35"/>
+      <path d="M144 40 L240 38 Q262 42 284 66 L144 68 Z" fill="#fff" opacity=".12" transform="translate(4 -2) scale(.98)"/>
+      <line x1="140" y1="72" x2="140" y2="108" stroke="#154930" stroke-width="1.4" opacity=".7"/>
+      <rect x="176" y="82" width="16" height="4" rx="2" fill="#1a5a3b"/>
+      <path d="M270 68 l12 -2 l3 8 l-14 2 z" fill="#268256" stroke="#185236" stroke-width=".8"/>
+      <path d="M354 82 L370 86 L370 96 L352 94 Z" fill="#fff6d6" stroke="#b9a35a" stroke-width=".8"/>
+      <path d="M26 60 L36 60 L36 84 L26 84 Z" fill="#c8322b"/>
+      <rect x="356" y="104" width="16" height="6" rx="2" fill="#1f2322" opacity=".75"/>
+      <path d="M34 114 H366 V122 Q366 126 360 126 H40 Q34 126 34 122 Z" fill="#232726"/>
+      
+      <circle cx="100" cy="118" r="35" fill="#1a1d1c" opacity=".9"/>
+      <circle cx="100" cy="118" r="30" fill="#202322"/>
+      <circle cx="100" cy="118" r="27" fill="none" stroke="#2c302f" stroke-width="2"/>
+      <circle cx="100" cy="118" r="17.4" fill="url(#car2r)"/>
+      <rect x="98" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(0 100 118)"/><rect x="98" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(72 100 118)"/><rect x="98" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(144 100 118)"/><rect x="98" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(216 100 118)"/><rect x="98" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(288 100 118)"/>
+      <circle cx="100" cy="118" r="4.5" fill="#5d6461"/>
+      <circle cx="300" cy="118" r="35" fill="#1a1d1c" opacity=".9"/>
+      <circle cx="300" cy="118" r="30" fill="#202322"/>
+      <circle cx="300" cy="118" r="27" fill="none" stroke="#2c302f" stroke-width="2"/>
+      <circle cx="300" cy="118" r="17.4" fill="url(#car2r)"/>
+      <rect x="298" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(0 300 118)"/><rect x="298" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(72 300 118)"/><rect x="298" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(144 300 118)"/><rect x="298" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(216 300 118)"/><rect x="298" y="101.5" width="4" height="12.6" rx="2" fill="#8d9692" transform="rotate(288 300 118)"/>
+      <circle cx="300" cy="118" r="4.5" fill="#5d6461"/>
+    </svg><svg x="930" y="262" width="420" height="168" viewBox="0 0 400 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Compact car illustration">
+      <defs>
+        <linearGradient id="car1b" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#f7f9f7"/><stop offset=".45" stop-color="#f4f6f4"/><stop offset="1" stop-color="#9fa09f"/>
+        </linearGradient>
+        <linearGradient id="car1g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stop-color="#d9e9f0"/><stop offset=".55" stop-color="#9fb8c4"/><stop offset="1" stop-color="#6f8894"/>
+        </linearGradient>
+        <radialGradient id="car1r" cx=".4" cy=".35" r=".7"><stop offset="0" stop-color="#eef1f0"/><stop offset="1" stop-color="#9aa4a0"/></radialGradient>
+        <clipPath id="car1c"><path d="M30 120 L30 88 Q31 72 44 64 L82 44 Q108 36 152 35 L232 35 Q258 37 290 66 L338 74 Q366 80 370 100 L370 120 Z"/></clipPath>
+      </defs>
+      <ellipse cx="200" cy="146" rx="178" ry="7" fill="#000" opacity=".14"/>
+      
+      <path d="M30 120 L30 88 Q31 72 44 64 L82 44 Q108 36 152 35 L232 35 Q258 37 290 66 L338 74 Q366 80 370 100 L370 120 Z" fill="url(#car1b)" stroke="#7a7b7a" stroke-width="1.2"/>
+      <g clip-path="url(#car1c)">
+        <rect x="0" y="102" width="400" height="60" fill="#b7b9b7" opacity="0.5"/>
+        <path d="M20 78 L380 74" stroke="#fff" stroke-opacity=".28" stroke-width="2"/>
+      </g>
+      <path d="M60 66 L88 48 Q100 43 120 43 L148 42 L148 68 Z" fill="url(#car1g)" stroke="#1f2a2e" stroke-opacity=".35"/><path d="M158 42 L230 42 Q250 46 274 68 L158 68 Z" fill="url(#car1g)" stroke="#1f2a2e" stroke-opacity=".35"/>
+      <path d="M158 42 L230 42 Q250 46 274 68 L158 68 Z" fill="#fff" opacity=".12" transform="translate(4 -2) scale(.98)"/>
+      <line x1="155" y1="72" x2="155" y2="114" stroke="#6e6f6e" stroke-width="1.4" opacity=".7"/>
+      <rect x="190" y="80" width="16" height="4" rx="2" fill="#868786"/>
+      <path d="M262 70 l12 -2 l3 8 l-14 2 z" fill="#c3c5c3" stroke="#7a7b7a" stroke-width=".8"/>
+      <path d="M352 84 L368 88 L368 96 L350 94 Z" fill="#fff6d6" stroke="#b9a35a" stroke-width=".8"/>
+      <path d="M30 82 L40 76 L40 94 L30 96 Z" fill="#c8322b"/>
+      <rect x="356" y="106" width="16" height="6" rx="2" fill="#1f2322" opacity=".75"/>
+      <path d="M34 116 H366 V124 Q366 128 360 128 H40 Q34 128 34 124 Z" fill="#868786"/>
+      
+      <circle cx="100" cy="120" r="32" fill="#1a1d1c" opacity=".9"/>
+      <circle cx="100" cy="120" r="27" fill="#202322"/>
+      <circle cx="100" cy="120" r="24" fill="none" stroke="#2c302f" stroke-width="2"/>
+      <circle cx="100" cy="120" r="15.659999999999998" fill="url(#car1r)"/>
+      <rect x="98" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(0 100 120)"/><rect x="98" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(72 100 120)"/><rect x="98" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(144 100 120)"/><rect x="98" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(216 100 120)"/><rect x="98" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(288 100 120)"/>
+      <circle cx="100" cy="120" r="4.5" fill="#5d6461"/>
+      <circle cx="300" cy="120" r="32" fill="#1a1d1c" opacity=".9"/>
+      <circle cx="300" cy="120" r="27" fill="#202322"/>
+      <circle cx="300" cy="120" r="24" fill="none" stroke="#2c302f" stroke-width="2"/>
+      <circle cx="300" cy="120" r="15.659999999999998" fill="url(#car1r)"/>
+      <rect x="298" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(0 300 120)"/><rect x="298" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(72 300 120)"/><rect x="298" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(144 300 120)"/><rect x="298" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(216 300 120)"/><rect x="298" y="105.15" width="4" height="11.34" rx="2" fill="#8d9692" transform="rotate(288 300 120)"/>
+      <circle cx="300" cy="120" r="4.5" fill="#5d6461"/>
+    </svg></svg>

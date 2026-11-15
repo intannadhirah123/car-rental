@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d3a26"/><stop offset="1" stop-color="#1c6b45"/></linearGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#sky)"/>
+  <circle cx="1270" cy="120" r="60" fill="#f2d98a" opacity=".85"/>
+  <path d="M0 300 L180 210 L320 270 L470 170 L640 260 L800 190 L960 250 L1120 160 L1290 240 L1440 180 L1600 230 V500 H0Z" fill="#185c3c"/>
+  <path d="M0 340 L220 270 L420 320 L600 250 L820 320 L1020 260 L1240 320 L1420 270 L1600 300 V500 H0Z" fill="#1f7449"/>
+  <!-- palm trees -->
+  <g fill="#0f3f29">
+    <rect x="1090" y="250" width="7" height="90"/><path d="M1093 250 q-40 -10 -60 12 q30 -8 60 -6 q-30 -20 -10 -40 q10 25 10 34 q5 -30 35 -36 q-20 18 -25 36 q35 -10 55 10 q-30 -6 -55 -10z"/>
+    <rect x="1490" y="240" width="7" height="100"/><path d="M1493 240 q-40 -10 -60 12 q30 -8 60 -6 q-30 -20 -10 -40 q10 25 10 34 q5 -30 35 -36 q-20 18 -25 36 q35 -10 55 10 q-30 -6 -55 -10z"/>
+  </g>
+  <!-- road -->
+  <path d="M0 380 H1600 V500 H0Z" fill="#26302b"/>
+  <path d="M0 380 H1600 V388 H0Z" fill="#3a463f"/>
+  <g fill="#e6e1c5"><rect x="40" y="436" width="90" height="6" rx="3"/><rect x="230" y="436" width="90" height="6" rx="3"/><rect x="420" y="436" width="90" height="6" rx="3"/><rect x="610" y="436" width="90" height="6" rx="3"/><rect x="800" y="436" width="90" height="6" rx="3"/><rect x="990" y="436" width="90" height="6" rx="3"/><rect x="1180" y="436" width="90" height="6" rx="3"/><rect x="1370" y="436" width="90" height="6" rx="3"/></g>
+</svg>
